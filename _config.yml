@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "魔神の怒焰",
-        href: "http://fanfrz.com"
+        href: "https://www.fanfrs.com/"
     },{
         title: " ",
         href: " "
